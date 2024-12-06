@@ -1,0 +1,9 @@
+﻿<Application x:Class="Non_editor_with_dynamic_22._10._2024__1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Non_editor_with_dynamic_22._10._2024__1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
